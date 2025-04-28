@@ -41,15 +41,15 @@ El proyecto demuestra la aplicación de sistemas embebidos en problemas reales, 
 
 ### Diagrama de Bloques
 
-![Diagrama de Bloques](Diseño/Diagrama_de_Bloques.png)
+![Diagrama de Bloques](Diseño/diagrama de bloques.png)
 
 ### Diagrama de Flujo
 
-![Diagrama de Flujo](Diseño/Diagrama_de_Flujo.png)
+![Diagrama de Flujo](Diseño/Diagrama de Flujo.png)
 
 ### Diagrama de Clases
 
-![Diagrama de Clases](Diseño/Diagrama_de_Clases_Correcto.png)
+![Diagrama de Clases](Diseño/Diagrama de clases.png)
 
 ---
 
