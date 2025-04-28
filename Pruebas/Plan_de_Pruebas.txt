@@ -1,0 +1,14 @@
+Plan de Pruebas
+
+Pruebas Unitarias:
+- Comprobación de encendido de cada LED.
+- Detección de botón presionado.
+- Activación y desactivación del buzzer.
+
+Pruebas de Integración:
+- Cambio correcto del ciclo vehicular a peatonal al presionar el botón.
+- Activación de buzzer durante cruce peatonal.
+
+Validación Final:
+- Confirmar el funcionamiento completo en simulación Proteus.
+- Validación física del prototipo montado en protoboard.

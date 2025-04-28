@@ -1,0 +1,16 @@
+Requisitos por Módulo
+
+Semáforo Vehicular:
+- LED Verde: Encendido durante el paso vehicular.
+- LED Amarillo: Advertencia de cambio a rojo.
+- LED Rojo: Detención de vehículos.
+
+Semáforo Peatonal:
+- LED Verde: Paso permitido a peatones.
+- LED Rojo: Prohibido cruzar.
+
+Botón Peatonal:
+- Detección de pulsación para activar secuencia peatonal.
+
+Buzzer:
+- Activación al permitir paso de peatones.

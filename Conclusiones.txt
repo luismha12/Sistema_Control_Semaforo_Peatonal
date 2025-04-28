@@ -1,0 +1,5 @@
+Conclusiones
+
+El sistema de semáforo peatonal fue implementado satisfactoriamente, cumpliendo los requisitos funcionales y estructurales. El uso del PIC16F877A facilitó la integración de entradas y salidas digitales, generando un control efectivo y seguro de tráfico peatonal. 
+
+El proyecto permitió reforzar conocimientos de programación en C, manejo de hardware y simulaciones electrónicas, desarrollando habilidades críticas para aplicaciones de sistemas embebidos reales.

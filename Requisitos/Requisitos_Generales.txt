@@ -1,0 +1,6 @@
+Requisitos Generales
+
+- Controlar el flujo de tráfico vehicular y peatonal mediante LEDs.
+- Permitir a los peatones solicitar paso mediante un botón.
+- Activar una alarma sonora (buzzer) como advertencia al cambiar señales.
+- Restablecer automáticamente el ciclo vehicular tras cruzar.

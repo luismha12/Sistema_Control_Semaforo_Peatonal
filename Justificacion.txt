@@ -1,0 +1,12 @@
+Justificación del Proyecto
+
+Nombre del proyecto: Sistema de Control de Semáforo Peatonal
+
+Integrantes:
+- Luis Manuel Hurtado Almaraz
+- Luis Fernando Garduño Quintana
+- Antonio Garza Lozano
+
+Diseñamos e implementamos un sistema de control de semáforo peatonal usando el microcontrolador PIC16F877A para mejorar la seguridad de los peatones en cruces viales. Mediante un botón, el peatón puede solicitar el cruce seguro, activando un ciclo especial en el semáforo vehicular y un buzzer de advertencia.
+
+El proyecto demuestra la aplicación de sistemas embebidos en problemas reales, usando recursos de hardware básicos y sienta bases para futuras expansiones como comunicación inalámbrica o sensores inteligentes.
