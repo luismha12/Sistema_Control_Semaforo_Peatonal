@@ -69,7 +69,6 @@ El proyecto demuestra la aplicación de sistemas embebidos en problemas reales, 
 ### Software
 - Lenguaje C en MPLAB X IDE con compilador XC8.
 - Control modularizado de semáforo y buzzer.
-- Manejo anti-rebote en botón.
 
 ---
 
